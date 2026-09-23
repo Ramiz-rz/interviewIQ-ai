@@ -1,0 +1,6 @@
+{
+  "name": "InterviewIQ AI",
+  "description": "AI-powered interview preparation and practice application: practice smarter, interview better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
